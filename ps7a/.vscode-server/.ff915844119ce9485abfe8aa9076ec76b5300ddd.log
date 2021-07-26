@@ -1,0 +1,194 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.31.41.96
+Extension host agent listening on 37309
+
+
+[00:40:31] Extension host agent started.
+[00:40:32] [127.0.0.1][7928cd7d][ManagementConnection] New connection established.
+[00:40:32] [127.0.0.1][164bab52][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[00:40:32] [127.0.0.1][164bab52][ExtensionHostConnection] <23419> Launched Extension Host Process.
+[00:40:43] [127.0.0.1][7928cd7d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:40:44] [127.0.0.1][164bab52][ExtensionHostConnection] <23419> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[00:40:44] Last EH closed, waiting before shutting down
+[00:40:44] [127.0.0.1][bd73ae3a][ManagementConnection] New connection established.
+[00:40:44] [127.0.0.1][eb8562af][ExtensionHostConnection] New connection established.
+[00:40:44] [127.0.0.1][eb8562af][ExtensionHostConnection] <23444> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[00:45:44] New EH opened, aborting shutdown
+[01:37:23] [127.0.0.1][bd73ae3a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[01:37:24] [127.0.0.1][eb8562af][ExtensionHostConnection] <23444> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[01:37:24] Last EH closed, waiting before shutting down
+[01:37:24] [127.0.0.1][965da268][ManagementConnection] New connection established.
+[01:37:24] [127.0.0.1][262f44dd][ExtensionHostConnection] New connection established.
+[01:37:24] [127.0.0.1][262f44dd][ExtensionHostConnection] <25722> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[01:42:24] New EH opened, aborting shutdown
+[01:45:54] [127.0.0.1][965da268][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[01:45:55] [127.0.0.1][262f44dd][ExtensionHostConnection] <25722> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[01:45:55] Last EH closed, waiting before shutting down
+[01:45:55] [127.0.0.1][33f8ccd4][ManagementConnection] New connection established.
+[01:45:55] [127.0.0.1][61ba2957][ExtensionHostConnection] New connection established.
+[01:45:55] [127.0.0.1][61ba2957][ExtensionHostConnection] <26702> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[01:50:55] New EH opened, aborting shutdown
+[02:22:51] [127.0.0.1][33f8ccd4][ManagementConnection] The client has reconnected.
+[02:22:56] [127.0.0.1][61ba2957][ExtensionHostConnection] The client has reconnected.
+[03:47:58] Installing extension: tomoki1207.pdf
+[03:47:58] Downloaded extension: tomoki1207.pdf /tmp/cc38aa79-2873-41c9-b1a1-f247567ce60f
+[03:48:11] Extracted extension to /efs/home/schlec2/.vscode-server/extensions/.tomoki1207.pdf-0.6.0: tomoki1207.pdf
+[03:48:11] Renamed to /efs/home/schlec2/.vscode-server/extensions/tomoki1207.pdf-0.6.0
+[03:48:11] Installation completed. tomoki1207.pdf
+[03:48:11] Extensions installed successfully: tomoki1207.pdf
+[03:48:19] [127.0.0.1][33f8ccd4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[03:48:20] [127.0.0.1][61ba2957][ExtensionHostConnection] <26702> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[03:48:20] Last EH closed, waiting before shutting down
+[03:48:20] [127.0.0.1][ec3db660][ManagementConnection] New connection established.
+[03:48:20] [127.0.0.1][74533b80][ExtensionHostConnection] New connection established.
+[03:48:20] [127.0.0.1][74533b80][ExtensionHostConnection] <3835> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[03:53:20] New EH opened, aborting shutdown
+[04:46:33] [127.0.0.1][ec3db660][ManagementConnection] The client has reconnected.
+[04:46:38] [127.0.0.1][74533b80][ExtensionHostConnection] The client has reconnected.
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16) {
+  errno: 'EPIPE',
+  code: 'EPIPE',
+  syscall: 'write'
+}
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+[05:03:10] [127.0.0.1][ec3db660][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[05:20:31] [127.0.0.1][ec3db660][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[05:20:31] [127.0.0.1][ec3db660][ManagementConnection] The client has reconnected.
+[05:20:31] [127.0.0.1][74533b80][ExtensionHostConnection] The client has reconnected.
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16) {
+  errno: 'EPIPE',
+  code: 'EPIPE',
+  syscall: 'write'
+}
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+[05:37:20] [127.0.0.1][ec3db660][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[06:10:58] [127.0.0.1][ec3db660][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[06:10:58] [127.0.0.1][ec3db660][ManagementConnection] The client has reconnected.
+[06:10:58] [127.0.0.1][74533b80][ExtensionHostConnection] The client has reconnected.
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16) {
+  errno: 'EPIPE',
+  code: 'EPIPE',
+  syscall: 'write'
+}
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+[06:27:47] [127.0.0.1][ec3db660][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[06:48:39] [127.0.0.1][ec3db660][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[06:48:39] [127.0.0.1][ec3db660][ManagementConnection] The client has reconnected.
+[06:48:39] [127.0.0.1][74533b80][ExtensionHostConnection] The client has reconnected.
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16) {
+  errno: 'EPIPE',
+  code: 'EPIPE',
+  syscall: 'write'
+}
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+[07:05:28] [127.0.0.1][ec3db660][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[08:49:26] [127.0.0.1][ec3db660][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[08:49:26] [127.0.0.1][ec3db660][ManagementConnection] The client has reconnected.
+[08:49:29] [127.0.0.1][74533b80][ExtensionHostConnection] The client has reconnected.
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16) {
+  errno: 'EPIPE',
+  code: 'EPIPE',
+  syscall: 'write'
+}
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+[09:06:15] [127.0.0.1][ec3db660][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[10:50:22] [127.0.0.1][ec3db660][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[10:50:22] [127.0.0.1][ec3db660][ManagementConnection] The client has reconnected.
+[10:50:26] [127.0.0.1][74533b80][ExtensionHostConnection] The client has reconnected.
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16) {
+  errno: 'EPIPE',
+  code: 'EPIPE',
+  syscall: 'write'
+}
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+[11:07:05] [127.0.0.1][ec3db660][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[11:26:14] [127.0.0.1][ec3db660][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[11:26:14] [127.0.0.1][ec3db660][ManagementConnection] The client has reconnected.
+[11:26:19] [127.0.0.1][74533b80][ExtensionHostConnection] The client has reconnected.
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16) {
+  errno: 'EPIPE',
+  code: 'EPIPE',
+  syscall: 'write'
+}
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+[11:43:01] [127.0.0.1][ec3db660][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[13:27:06] [127.0.0.1][ec3db660][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[13:27:06] [127.0.0.1][ec3db660][ManagementConnection] The client has reconnected.
+[13:27:11] [127.0.0.1][74533b80][ExtensionHostConnection] The client has reconnected.
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:83:16) {
+  errno: 'EPIPE',
+  code: 'EPIPE',
+  syscall: 'write'
+}
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/efs/home/schlec2/.vscode-server/bin/ff915844119ce9485abfe8aa9076ec76b5300ddd/out/bootstrap.js:5:80)
+    at process.emit (events.js:200:13)
+[13:43:53] [127.0.0.1][ec3db660][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[14:08:11] [127.0.0.1][ec3db660][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[14:08:11] [127.0.0.1][ec3db660][ManagementConnection] The client has reconnected.
+[14:08:16] [127.0.0.1][74533b80][ExtensionHostConnection] The client has reconnected.

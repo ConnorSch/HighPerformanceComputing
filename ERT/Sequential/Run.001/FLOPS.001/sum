@@ -1,0 +1,15 @@
+    12.17 GFLOPs
+
+  1727.01 Weight
+
+   194.37 L1
+   132.37 L2
+    89.04 DRAM
+
+META_DATA
+ERT_VERSION  1.1.0
+UNAME  ('Linux', 'c91f517363d7', '4.19.76-linuxkit', '#1 SMP Fri Apr 3 15:53:26 UTC 2020', 'x86_64', 'x86_64')
+CONFIG  {'ERT_WORKING_SET_MIN': ['1'], 'ERT_CFLAGS': ['-Ofast', '-march=native'], 'ERT_CC': ['cc'], 'ERT_MPI_CFLAGS': [], 'ERT_MPI_LDFLAGS': [], 'ERT_MEMORY_MAX': ['134217728', '#', '128MB'], 'ERT_LDFLAGS': [], 'ERT_LDLIBS': [], 'ERT_RUN': ['./ERT_CODE'], 'ERT_FLOPS': ['1,4,16,64'], 'ERT_OPENMP_CFLAGS': ['-fopenmp'], 'ERT_MPI': ['False'], 'ERT_TRIALS_MIN': ['1'], 'ERT_DRIVER': ['driver1'], 'ERT_RESULTS': ['Sequential'], 'ERT_OPENMP': ['False'], 'ERT_KERNEL': ['kernel1'], 'ERT_GPU': [False], 'ERT_LD': ['cc'], 'ERT_NUM_EXPERIMENTS': ['1'], 'ERT_OPENMP_LDFLAGS': ['-fopenmp'], 'ERT_ALIGN': ['64'], 'ERT_GNUPLOT': ['gnuplot']}
+FLOPS          1
+HOSTNAME  ('c91f517363d7', [], ['172.17.0.2'])
+TIMESTAMP_DATA  1589925569.42
